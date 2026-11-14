@@ -1,11 +1,11 @@
 
-<div align="center">
+<div alinear="centro">
 
-# 🔥 NETHER CALCULATOR
+#  CALCULADORA INFERIOR
 
-### 🌋 Minecraft Coordinate Converter
+###  Convertidor de coordenadas de Minecraft
 
-Convert your coordinates between the **Overworld** and the **Nether** in seconds!
+Convierte tus coordinadas entre los **Sobremundo** y el **Nether** ¡en segundos!
 
 <br>
 
@@ -18,78 +18,78 @@ Convert your coordinates between the **Overworld** and the **Nether** in seconds
 
 ---
 
-# 📖 About The Project
+# 📖 Cerca del proyecto
 
-**Nether Calculator** is a simple and intuitive web application designed to help Minecraft players convert coordinates between dimensions.
+**Calculadora Nether** es una aplicación web sencilla e intuitiva enferma para ayudar a los jugadores de Minecraft a convertir coordinadas entre dimensiones.
 
-Using Minecraft's **8:1 coordinate ratio**, you can easily find the equivalent location in the Nether or the Overworld.
+Usando Minecraft **Relación de coordenadas 8:1**, Puestos encontrar rápidamente la ubicación equivalente en el Inframundo o el Supermundo.
 
-# ✨ Features
+#  Características
 
-- 🔥 **Overworld → Nether** conversion.
-- 🌋 **Nether → Overworld** conversion.
-- 📍 Automatic coordinate calculations.
-- ⚡ Fast and accurate results.
-- 🎨 Simple and user-friendly interface.
+-  **Sobremundo → Nether** conversión.
+-  **Nether → Sobremundo** conversión.
+-  Cálculos automáticos de coordinadas.
+-  Resultados rápidos y precisos.
+-  Interfaz sencilla y fácil de usar.
 
-# ⚙️ How It Works
+#  Cómo funciona
 
-Minecraft uses an **8:1 coordinate ratio** between the Overworld and the Nether.
+Minecraft utiliza un **Relación de coordenadas 8:1** entre el supramundo y el Nether.
 
-<div align="center">
+<div alinear="centro">
 
-### 🌍 OVERWORLD → NETHER
+###  MUNDO SUPERIOR → INFERIOR
 
-`X ÷ 8` 
+`X÷8`
 
-### 🔥 NETHER → OVERWORLD
+###  NETHER → SOBREMUNDO
 
-`X × 8`
+`X×8`
 
 </div>
 
-# 💻 Technologies
+# 💻 Tecnologías utilizadas
 
-| Technology | Purpose |
+| Tecnología | Propósito |
 |:---:|---|
-| HTML5 | Website structure |
-| CSS3 | Visual design |
-| JavaScript | Coordinate calculations |
+| HTML5 | Estructura del sitio web |
+| CSS3 | Diseño visual |
+| JavaScript | Cálculos de coordinadas |
 
-# 🚀 Installation
-
-1. Clone this repository:
+#  Instalación
+6
+1. Clonar este repositorio:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   clon git TU_URL_REPOSITORIO
    ```
 
-2. Open the project folder.
+2. Abra la alfombra del proyecto.
 
-3. Open `index.html` in your browser.
+3. Abierto `índice.html` en tu navegador.
 
-4. Start converting coordinates!
+4. ¡Empieza a convertir coordinadas!
 
-# 📂 Project Structure
+#  Estructura del proyecto
 
-```text
-Nether-Calculator/
+```texto
+Calculadora Nether/
 │
 ├── index.html
-├── style.css
+├── estilo.css
 ├── script.js
 └── README.md
 ```
 
 ---
 
-<div align="center">
+<div alinear="centro">
 
-### 🔥 Built for Minecraft players
+###  Creado para jugadores de Minecraft
 
-**Explore the Nether. Find your way.**
+**Explora el Nether. Encuentro tu camino.**
 
-⭐ If you like this project, consider giving it a star!
+ Si te gusta este proyecto, ¡considera darle una estrella!
 
 </div>
 
